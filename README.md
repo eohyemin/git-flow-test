@@ -15,3 +15,13 @@
 코드 리뷰 
 
 해보겟읍니당
+
+```swift
+let minji = MinJi()
+minji.a = b
+a.b = c
+let eo = 2
+print(eo)
+
+```
+
