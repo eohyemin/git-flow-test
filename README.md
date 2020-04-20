@@ -23,5 +23,7 @@ a.b = c
 let eo = 2
 print(eo)
 
+let hyeminHeap = MinHeap()
+print(hyeminHeap)
 ```
 
