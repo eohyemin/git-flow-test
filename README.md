@@ -31,8 +31,6 @@ print(hyeminHeap)
 
 ## 헴힙
 
-
-
 헤민힙
 
 개발
@@ -42,5 +40,8 @@ print(hyeminHeap)
 ```
 var hmin = Hyemin()
 print(hmin)
+
+minji.c = angel
+minfi.a = love
 ```
 
